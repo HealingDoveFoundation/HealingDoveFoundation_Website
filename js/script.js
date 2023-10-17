@@ -7,7 +7,7 @@ const buttons = document.querySelectorAll(".blog_button");
 
 buttons.forEach((el)=>{
         el.addEventListener("click", ()=>{
-            location.href = `Blogs/Blog${el.id}.html`
+            window.location.pathname=`Blogs/Blog${el.id}.html`
         } );
     }   
 )
