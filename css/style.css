@@ -1419,6 +1419,16 @@ img {
   }
 }
 
+
+/***********Multimedia CSS**********/
+/* Cards section */
+.event .col-lg-5.card {
+  margin-right: 30px;
+  margin-bottom: 30px;
+  background: #f3f6ff;
+  text-align: center;
+}
+
 /*******************************/
 /*********** Blog CSS **********/
 /*******************************/
