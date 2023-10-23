@@ -1975,6 +1975,7 @@ ul {
 }
 
 .row .col-lg-3 .blog-item {
+  background-color: rgb(230, 240, 247);
   text-align: center;
   height: 100%;
 }
