@@ -99,7 +99,7 @@
                     </div>
                     <div class="col-12">
                         <a href="index.html">Home</a>
-                        <a href="">Contact</a>
+                        <a href="contact.html">Contact</a>
                     </div>
                 </div>
             </div>
